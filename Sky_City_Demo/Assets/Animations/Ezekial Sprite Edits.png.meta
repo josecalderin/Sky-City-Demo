@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: da0618a0c25c51944b42ff909a3dc965
+timeCreated: 1543703920
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Foward_RLeg
+    21300002: Foward_Idle
+    21300004: Foward_LLeg
+    21300006: Left_RLeg
+    21300008: Left_Idle
+    21300010: Left_LLeg
+    21300012: Right_LLeg
+    21300014: Right_RLeg
+    21300016: Back_RLeg
+    21300018: Back_Idle
+    21300020: Back_LLeg
+    21300022: Right_Idle
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foward_RLeg
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foward_Idle
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foward_LLeg
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_RLeg
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_LLeg
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 81
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_LLeg
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_RLeg
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 47
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back_RLeg
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back_Idle
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back_LLeg
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -41, y: -30}
+      - {x: -47, y: -39}
+      - {x: -47, y: -54}
+      - {x: -40, y: -66}
+      - {x: -17, y: -66}
+      - {x: -17, y: -30}
+    - - {x: 23, y: -14}
+      - {x: 24, y: -15}
+      - {x: 22, y: -18}
+      - {x: 22, y: -29}
+      - {x: 39, y: -33}
+      - {x: 47, y: -24}
+      - {x: 47, y: 40}
+      - {x: 29, y: 75}
+      - {x: -19, y: 75}
+      - {x: -19, y: -50}
+      - {x: -11, y: -66}
+      - {x: 9, y: -66}
+      - {x: 19, y: -62}
+      - {x: 19, y: -39}
+      - {x: 21, y: -18}
+      - {x: 24, y: -14}
+    - - {x: 24, y: -30}
+      - {x: 17, y: -41}
+      - {x: 17, y: -51}
+      - {x: 19, y: -59}
+      - {x: 26, y: -66}
+      - {x: 38, y: -66}
+      - {x: 46, y: -62}
+      - {x: 46, y: -38}
+      - {x: 39, y: -30}
+    - - {x: -47, y: -30}
+      - {x: -20, y: -30}
+      - {x: -17, y: -29}
+      - {x: -17, y: 39}
+      - {x: -48, y: 39}
+      - {x: -48, y: -29}
+    - - {x: -36, y: 74}
+      - {x: -46, y: 69}
+      - {x: -46, y: 44}
+      - {x: -39, y: 39}
+      - {x: -25, y: 39}
+      - {x: -20, y: 40}
+      - {x: -17, y: 50}
+      - {x: -17, y: 67}
+      - {x: -23, y: 74}
+    - - {x: 20, y: 74}
+      - {x: 17, y: 65}
+      - {x: 17, y: 45}
+      - {x: 27, y: 39}
+      - {x: 44, y: 39}
+      - {x: 47, y: 42}
+      - {x: 47, y: 66}
+      - {x: 46, y: 74}
+    physicsShape:
+    - - {x: -40, y: -30}
+      - {x: -45, y: -34}
+      - {x: -45, y: -56}
+      - {x: -41, y: -66}
+      - {x: -27, y: -66}
+      - {x: -20, y: -62}
+      - {x: -18, y: -60}
+      - {x: -18, y: -37}
+      - {x: -20, y: -30}
+    - - {x: 12, y: -35}
+      - {x: 9, y: -26}
+      - {x: 15, y: -5}
+      - {x: 11, y: 6}
+      - {x: 11, y: 15}
+      - {x: 18, y: 19}
+      - {x: 21, y: 13}
+      - {x: 25, y: 4}
+      - {x: 17, y: -3}
+      - {x: 15, y: -15}
+      - {x: 23, y: -29}
+      - {x: 39, y: -31}
+      - {x: 44, y: -22}
+      - {x: 45, y: -1}
+      - {x: 40, y: 5}
+      - {x: 47, y: 17}
+      - {x: 47, y: 27}
+      - {x: 46, y: 33}
+      - {x: 39, y: 39}
+      - {x: 21, y: 40}
+      - {x: 12, y: 36}
+      - {x: 16, y: 47}
+      - {x: 17, y: 52}
+      - {x: 12, y: 70}
+      - {x: 5, y: 75}
+      - {x: -8, y: 75}
+      - {x: -17, y: 64}
+      - {x: -17, y: 33}
+      - {x: -15, y: 22}
+      - {x: -11, y: 2}
+      - {x: -19, y: -7}
+      - {x: -19, y: -10}
+      - {x: -15, y: -15}
+      - {x: -14, y: -15}
+      - {x: -8, y: -30}
+      - {x: -17, y: -39}
+      - {x: -16, y: -57}
+      - {x: -7, y: -66}
+      - {x: 6, y: -66}
+      - {x: 14, y: -59}
+      - {x: 15, y: -51}
+      - {x: 14, y: -40}
+    - - {x: 21, y: -30}
+      - {x: 19, y: -33}
+      - {x: 19, y: -59}
+      - {x: 26, y: -66}
+      - {x: 38, y: -66}
+      - {x: 46, y: -62}
+      - {x: 46, y: -34}
+      - {x: 39, y: -30}
+    - - {x: -17, y: 34}
+      - {x: -25, y: 39}
+      - {x: -46, y: 39}
+      - {x: -48, y: 31}
+      - {x: -48, y: 20}
+      - {x: -40, y: 5}
+      - {x: -48, y: -5}
+      - {x: -48, y: -18}
+      - {x: -43, y: -29}
+      - {x: -40, y: -30}
+      - {x: -27, y: -30}
+      - {x: -22, y: -26}
+      - {x: -20, y: -14}
+      - {x: -17, y: -1}
+    - - {x: -39, y: 74}
+      - {x: -46, y: 66}
+      - {x: -46, y: 45}
+      - {x: -42, y: 39}
+      - {x: -24, y: 39}
+      - {x: -17, y: 43}
+      - {x: -17, y: 66}
+      - {x: -23, y: 74}
+    - - {x: 38, y: 74}
+      - {x: 23, y: 74}
+      - {x: 17, y: 67}
+      - {x: 17, y: 51}
+      - {x: 21, y: 39}
+      - {x: 41, y: 39}
+      - {x: 47, y: 41}
+      - {x: 47, y: 67}
+      - {x: 46, y: 71}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
